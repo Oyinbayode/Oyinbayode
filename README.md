@@ -10,12 +10,12 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/iamoyinbayode#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/iamoyinbayode#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/oyinbayodeakinleye#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/oyinbayodeakinleye#gh-dark-mode-only)
-&nbsp;&nbsp;
+<p align="left">
+<a href="https://twitter.com/iamoyinbayode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Oyinbayode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oyinbayodeakinleye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Oyinbayodeakinleye" height="30" width="40" /></a>
+<a href="https://hashnode.com/@oyinbayode" target="blank"><img align="center" src="https://seeklogo.com/images/H/hashnode-logo-B114767E70-seeklogo.com.png" alt="@oyinbayode" height="30" width="30" /></a>
+<a href="https://discord.gg/Oyinbayode#1663" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Oyinbayode#1663" height="30" width="40" /></a>
+</p>
 
 ### Languages and Tools:
 
