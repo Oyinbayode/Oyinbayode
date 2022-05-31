@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in hashnode posts
-        uses: Oyinbayode/blog-post-workflow@master
+        uses: Oyinbayode/Oyinbayode@master
         with:
           feed_list: "	https://Oyinbayode.hashnode.dev/rss.xml"
