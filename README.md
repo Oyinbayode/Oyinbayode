@@ -38,16 +38,9 @@
   <!--START_SECTION:waka-->
 
 ```text
-From: 30 April 2022 - To: 30 May 2022
+Total Time: 5 hrs 16 mins
 
-Total Time: 27 hrs 51 mins
-
-JavaScript                      ██████████████████▓░░░░░░   75.18 %
-TypeScript                      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
-Solidity                        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-JSON                            █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-Bash                            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-CSS                             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+JavaScript                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
