@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: Oyinbayode/Oyinbayode@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "	https://Oyinbayode.hashnode.dev/rss.xml"
 
