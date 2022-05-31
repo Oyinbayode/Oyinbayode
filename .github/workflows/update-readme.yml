@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: Oyinbayode/Oyinbayode@master
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # Checkout the repo - uses: actions/checkout@v3 with: # Repository name with owner. For example, actions/checkout Default: ${{ github.repository }}
