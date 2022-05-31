@@ -45,7 +45,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oyinbayode&show_icons=true&locale=en&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="oyinbayode" />
 
 
+### WakaTime Stats
 
-[twitter]: https://twitter.com/iamoyinbayode
-[linkedin]: https://linkedin.com/in/oyinbayodeakinleye
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
