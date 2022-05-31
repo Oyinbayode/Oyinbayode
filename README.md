@@ -32,28 +32,17 @@
 - [Building a chart with React &lpar;Part 1&rpar;](https://oyinbayode.hashnode.dev/building-a-chart-with-react-part-1)
 <!-- BLOG-POST-LIST:END -->
 
----
+### ⚡ Recent Github Activity
 
----
-
-<p>
-  <h2>:zap: Recent GitHub Activity</h2>
-  
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-</p>
 
----
+### ⚡ GitHub Stats
 
+<img align="left" alt="Oyinbayode's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Oyinbayode&show_icons=true&locale=en&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-<p>
-  <h2>:zap: GitHub Stats</h2>
-
-  <img align="left" alt="Oyinbayode's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Oyinbayode&show_icons=true&locale=en&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oyinbayode&show_icons=true&locale=en&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="oyinbayode" />
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oyinbayode&show_icons=true&locale=en&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="oyinbayode" />
 
 
 
