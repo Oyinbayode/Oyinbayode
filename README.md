@@ -32,22 +32,10 @@
 - [Building a chart with React &lpar;Part 1&rpar;](https://oyinbayode.hashnode.dev/building-a-chart-with-react-part-1)
 <!-- BLOG-POST-LIST:END -->
 
-### ⚡ Recent Github Activity
+### 📊 My Github Language Stats
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-### ⚡ GitHub Stats
-
-<img align="left" alt="Oyinbayode's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Oyinbayode&show_icons=true&locale=en&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oyinbayode&show_icons=true&locale=en&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="oyinbayode" />
-
-
-### WakaTime Stats
-
-<!--START_SECTION:waka-->
+<div>
+  <!--START_SECTION:waka-->
 
 ```text
 From: 30 April 2022 - To: 30 May 2022
@@ -63,4 +51,27 @@ CSS                             ░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+</div>
+
+### ⚡ Recent Github Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+### ⚡ GitHub Stats
+<p>
+  <img align="left" alt="Oyinbayode's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Oyinbayode&show_icons=true&locale=en&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oyinbayode&show_icons=true&locale=en&layout=compact&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="oyinbayode" />
+</p>
+
+<br />
+<br />
+
+
+<p>
+  
+</p>
+
 
