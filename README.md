@@ -29,7 +29,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Building a chart with React &lpar;Part 1&rpar;](https://oyinbayode.hashnode.dev/building-a-chart-with-react-part-1)
 <!-- BLOG-POST-LIST:END -->
 
 ---
