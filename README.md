@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Oyinbayode&label=MY+VIEWS&color=blue)
+
 # Hello World 👶, I'm Oyinbayode 👋
 
 ## I'm a Front-End Developer!
@@ -40,8 +42,6 @@
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
 
 ---
 
