@@ -29,6 +29,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Auditing Your Websites And Web Applications](https://oyinbayode.hashnode.dev/auditing-your-websites-and-web-applications)
 - [Accessing GitHub&#39;s Student Developer Pack](https://oyinbayode.hashnode.dev/accessing-githubs-student-developer-pack)
 - [Integrating your React application with Emailjs](https://oyinbayode.hashnode.dev/integrating-your-react-application-with-emailjs)
 - [The Web Storage API](https://oyinbayode.hashnode.dev/the-web-storage-api)
