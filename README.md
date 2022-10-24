@@ -29,11 +29,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Five things you need to know about Ethereum](https://oyinbayode.hashnode.dev/five-things-you-need-to-know-about-ethereum)
 - [A brief introduction to Smart contracts](https://oyinbayode.hashnode.dev/a-brief-introduction-to-smart-contracts)
 - [What Is The Blockchain?](https://oyinbayode.hashnode.dev/what-is-the-blockchain)
 - [Auditing Your Websites And Web Applications](https://oyinbayode.hashnode.dev/auditing-your-websites-and-web-applications)
 - [Accessing GitHub&#39;s Student Developer Pack](https://oyinbayode.hashnode.dev/accessing-githubs-student-developer-pack)
-- [Integrating your React application with Emailjs](https://oyinbayode.hashnode.dev/integrating-your-react-application-with-emailjs)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 My Github Language Stats
