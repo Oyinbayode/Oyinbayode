@@ -42,11 +42,7 @@
   <!--START_SECTION:waka-->
 
 ```text
-Total Time: 54 mins
-
-JSON                         ████████▒░░░░░░░░░░░░░░░░   33.10 %
-JavaScript                   ██████▓░░░░░░░░░░░░░░░░░░   26.97 %
-Other                        ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
