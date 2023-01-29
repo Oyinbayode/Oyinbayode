@@ -42,7 +42,11 @@
   <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 47 mins
+
+JavaScript                   █████████████████████████   99.86 %
+Git Config                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+JSON                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
